@@ -19,3 +19,4 @@ pnpm dev
 # 目次
 
 - [2026-03-30: useRefとuseStateの違いの確認用リポジトリ](20260330/README.md)
+- [2026-03-31: JS/TS「等価」の整理 `==` と `===`、あと object 比較の話](20260331/README.md)
